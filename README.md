@@ -1,7 +1,6 @@
 # HHA504: mysql-selfmanaged
-Assignment 6
-
 Cloud Environment: GCP
+## Instuctions:
 
 Step 1: Create VM
 1. Click 'Create a VM instance'
